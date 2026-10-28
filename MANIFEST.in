@@ -1,0 +1,5 @@
+include CHANGELOG.md
+include uv.lock
+include RELEASING.md
+recursive-include scripts *.py
+recursive-include tests *.py
